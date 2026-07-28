@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "PSC Quiz Arena",
+    "slug": "psc-quiz-arena",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0B3D2E"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pscquizarena.app"
+    },
+    "android": {
+      "package": "com.pscquizarena.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B3D2E"
+      }
+    },
+    "scheme": "pscquizarena",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
